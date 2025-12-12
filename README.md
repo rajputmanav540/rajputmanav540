@@ -1,4 +1,4 @@
-<!-- Animated Banner / Hero -->
+<!-- Animated Banner -->
 <p align="center">
   <img src="https://i.imgur.com/3XjzG8R.gif" width="650">
 </p>
@@ -14,10 +14,9 @@
 
 ## ⭐ About Me
 - 🎓 B.Tech CSE (Cloud Computing & Virtualization) — **UPES Dehradun**  
-- 💻 Passionate about **Java**, **React**, **Spring Boot**, **Node.js**, **AWS**  
-- 📱 Former **App Development Intern @ RAASA KARTS**  
-- ☁️ Interested in cloud-native and scalable full-stack applications  
-- 📚 Currently learning **DevOps + Microservices**  
+- 💻 Java, React, Spring Boot, Node.js, AWS  
+- 📱 App Development Intern @ RAASA KARTS  
+- ☁️ Passion for cloud-native systems & scalable apps  
 - 📧 **Email:** rajputmanav540@gmail.com  
 
 ---
@@ -39,47 +38,48 @@
 ## 📂 Featured Projects
 
 ### 🔹 **Real-Time Collaboration Platform**
-A full-stack application for real-time messaging and project management.  
+A real-time messaging + project management platform.  
 **Tech:** React, Node.js, WebSocket, Redis, MongoDB, JWT, AWS  
-👉 WebSocket-based real-time chat  
-👉 JWT Auth + RBAC  
-👉 Redis caching for performance  
 
 ---
 
 ### 🔹 **Hostel Management System**
-Spring Boot + MySQL app for managing hostel records, mess bills, visitors, and room allotment.  
+Full-stack hostel admin system built with Spring Boot + MySQL.  
 **Tech:** Java, Spring Boot, JDBC, MySQL  
 
 ---
 
 ### 🔹 **Three-Tier AWS Deployment**
-Deployed a cloud-native app using EC2, Lambda, API Gateway, VPC, and RDS.  
-**Tech:** AWS EC2, Lambda, RDS, IAM, API Gateway, VPC  
+Cloud app deployed using EC2, Lambda, RDS, VPC, API Gateway.  
+**Tech:** AWS EC2, Lambda, RDS, IAM, API Gateway  
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 - AWS Academy — Cloud Architecting  
 - AWS Academy — Cloud Security Foundations  
 - AWS Academy — Introduction to Cloud  
-- AWS Cloud Quest — Cloud Practitioner  
-- Docker Certification (GUVI – HCL)  
-- React.js Certification (GUVI – HCL)  
-- Node.js Certification (GUVI – HCL)  
+- AWS Cloud Quest: Cloud Practitioner  
+- Docker, React.js, Node.js Certifications (GUVI – HCL)  
 - LeetCode — **50 Days Streak Badge**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Working Mirrors ✔)
 
+### ⭐ Streak Stats (fully reliable)
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmanav540&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=rajputmanav540&theme=tokyonight" />
 </p>
 
+### ⭐ GitHub Stats (Mirror if Vercel breaks)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajputmanav540&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmanav540&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=rajputmanav540&show_icons=true&theme=tokyonight" />
+</p>
+
+### ⭐ Top Languages
+<p align="center">
+  <img height="165" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=rajputmanav540&layout=compact&theme=tokyonight" />
 </p>
 
 ---
