@@ -1,85 +1,56 @@
-<!-- Animated Banner -->
+<!-- Working Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/3XjzG8R.gif" width="650">
+  <img src="https://raw.githubusercontent.com/rajputmanav540/rajputmanav540/main/assets/banner.png" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Manav Rajput 👋</h1>
 
-<!-- Typing Animation -->
+<!-- Reliable Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3300&color=1AF7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+React+%7C+AWS;Cloud+Computing+and+Virtualization;Full-Stack+Developer;Open+Source+Enthusiast">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=600&color=1AF7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+React+%7C+AWS;Cloud+Computing+Specialization;Full+Stack+Developer;Open+Source+Contributor" />
 </p>
 
 ---
 
 ## ⭐ About Me
-- 🎓 B.Tech CSE (Cloud Computing & Virtualization) — **UPES Dehradun**  
-- 💻 Java, React, Spring Boot, Node.js, AWS  
-- 📱 App Development Intern @ RAASA KARTS  
-- ☁️ Passion for cloud-native systems & scalable apps  
+- 🎓 B.Tech CSE (Cloud Computing & Virtualization) — **UPES Dehradun**
+- 💻 Java | React | Spring Boot | Node.js | AWS  
+- 📱 Former App Dev Intern @ RAASA KARTS  
 - 📧 **Email:** rajputmanav540@gmail.com  
 
 ---
 
-## 🚀 Technical Skills
-
-### **Languages & Frameworks**
+## 🚀 Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,reactnative,nodejs,express,spring,mysql,mongodb" />
-</p>
-
-### **Cloud & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,reactnative,nodejs,mysql,mongodb,aws,docker,kubernetes,git,github" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+# 📊 GitHub Stats (Guaranteed Working)
 
-### 🔹 **Real-Time Collaboration Platform**
-A real-time messaging + project management platform.  
-**Tech:** React, Node.js, WebSocket, Redis, MongoDB, JWT, AWS  
-
----
-
-### 🔹 **Hostel Management System**
-Full-stack hostel admin system built with Spring Boot + MySQL.  
-**Tech:** Java, Spring Boot, JDBC, MySQL  
-
----
-
-### 🔹 **Three-Tier AWS Deployment**
-Cloud app deployed using EC2, Lambda, RDS, VPC, API Gateway.  
-**Tech:** AWS EC2, Lambda, RDS, IAM, API Gateway  
-
----
-
-## 🏆 Certifications
-- AWS Academy — Cloud Architecting  
-- AWS Academy — Cloud Security Foundations  
-- AWS Academy — Introduction to Cloud  
-- AWS Cloud Quest: Cloud Practitioner  
-- Docker, React.js, Node.js Certifications (GUVI – HCL)  
-- LeetCode — **50 Days Streak Badge**
-
----
-
-## 📊 GitHub Stats (Working Mirrors ✔)
-
-### ⭐ Streak Stats (fully reliable)
+### 🔥 Streak Stats (Always Works — GitHub Hosted)
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=rajputmanav540&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=rajputmanav540&theme=tokyonight" height="160"/>
 </p>
 
-### ⭐ GitHub Stats (Mirror if Vercel breaks)
+---
+
+### ⭐ GitHub Stats — *Mirror 1 (Fastest)*  
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrk.vercel.app/api?username=rajputmanav540&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-mracyn.vercel.app/api?username=rajputmanav540&show_icons=true&theme=tokyonight" height="160"/>
 </p>
 
-### ⭐ Top Languages
+### ⭐ GitHub Stats — *Mirror 2 (Backup mirror)*  
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrk.vercel.app/api/top-langs/?username=rajputmanav540&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrk.vercel.app/api?username=rajputmanav540&show_icons=true&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🧩 Top Languages — *Working Mirror*
+<p align="center">
+  <img src="https://github-readme-stats-mracyn.vercel.app/api/top-langs/?username=rajputmanav540&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
@@ -106,4 +77,4 @@ Cloud app deployed using EC2, Lambda, RDS, VPC, API Gateway.
 
 ---
 
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
