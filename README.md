@@ -11,11 +11,10 @@
 - B.Tech CSE (Cloud Computing & Virtualization) — UPES Dehradun  
 - Interested in backend development, cloud computing, and scalable systems  
 - Hands-on experience with **Java**, **Spring Boot**, **React**, **Node.js**, **AWS**  
-- Email: **rajputmanav540@gmail.com**
 
 ---
 
-## 🚀 Skills (Animated Icons)
+## 🚀 Skills
 
 ### **Languages & Frameworks**
 <p>
@@ -63,7 +62,7 @@ Architecture deployed using EC2 + Lambda + RDS + API Gateway
 
 ---
 
-## 📫 Contact Me (Animated Icons)
+## 📫 Contact Me 
 <p align="center">
   <a href="mailto:rajputmanav540@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
@@ -80,8 +79,6 @@ Architecture deployed using EC2 + Lambda + RDS + API Gateway
 
 <p align="center">
   📞 <b>Phone:</b> +91 6395481510  
-  <br>
-  📧 <b>Email:</b> rajputmanav540@gmail.com  
 </p>
 
 ---
