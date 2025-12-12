@@ -77,10 +77,6 @@ Architecture deployed using EC2 + Lambda + RDS + API Gateway
   </a>
 </p>
 
-<p align="center">
-  📞 <b>Phone:</b> +91 6395481510  
-</p>
-
 ---
 
 <p align="center">
