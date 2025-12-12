@@ -1,113 +1,109 @@
+<!-- Animated Banner / Hero -->
+<p align="center">
+  <img src="https://i.imgur.com/3XjzG8R.gif" width="650">
+</p>
+
 <h1 align="center">Hi, I'm Manav Rajput 👋</h1>
-<p align="center">
-  <b>B.Tech CSE (Cloud Computing & Virtualization) | Java Developer | AWS | Full-Stack Enthusiast</b>
-</p>
 
+<!-- Typing Animation -->
 <p align="center">
-📍 Dehradun, Uttarakhand •  
-📞 +91 6395481510 •  
-📧 rajputmanav540@gmail.com  
-<br>
-🔗 <a href="https://linkedin.com/in/rajputmanav">LinkedIn</a> • 
-🔗 <a href="https://github.com/rajputmanav540">GitHub</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3300&color=1AF7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+React+%7C+AWS;Cloud+Computing+and+Virtualization;Full-Stack+Developer;Open+Source+Enthusiast">
 </p>
 
 ---
 
-## 👨‍🎓 Education
-
-**University of Petroleum and Energy Studies (UPES), Dehradun**  
-*B.Tech in Computer Science & Engineering (Cloud Computing & Virtualization)*  
-📅 *Aug 2022 – May 2026*  
-**CGPA: 7.68**
-
-**Pine Hall School, Dehradun**  
-- Intermediate (PCM): **89%**  
-- High School: **94%**
+## ⭐ About Me
+- 🎓 B.Tech CSE (Cloud Computing & Virtualization) — **UPES Dehradun**  
+- 💻 Passionate about **Java**, **React**, **Spring Boot**, **Node.js**, **AWS**  
+- 📱 Former **App Development Intern @ RAASA KARTS**  
+- ☁️ Interested in cloud-native and scalable full-stack applications  
+- 📚 Currently learning **DevOps + Microservices**  
+- 📧 **Email:** rajputmanav540@gmail.com  
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Technical Skills
 
-**Languages:** Java  
-**Frontend:** HTML, CSS, JavaScript, React, React Native  
-**Backend:** Node.js, Express.js, Spring Boot, JDBC  
-**Databases:** MySQL, MongoDB  
-**Cloud:** AWS (EC2, S3, Lambda, RDS, VPC, IAM)  
-**DevOps Tools:** Docker, Kubernetes  
-**Developer Tools:** Git, GitHub, VS Code, Android Studio  
-**Other:** Data Structures & Algorithms, REST API Development
+### **Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,react,reactnative,nodejs,express,spring,mysql,mongodb" />
+</p>
 
----
-
-## 💼 Internship Experience
-
-### **App Development Intern — RAASA KARTS, Noida (Remote)**  
-📅 *Jun 2025 – Jul 2025*
-
-- Worked on the **Order App frontend** using React Native.  
-- Implemented a **Past Orders Filter** for sorting and improving user experience.  
-- Ensured consistent UI/UX across app components.  
-- Gained hands-on experience in **Android app development** and component-based architecture.  
-- **Tech Stack:** React Native, JavaScript, Android Studio
+### **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 📂 Featured Projects
 
-### **Real-Time Collaboration Platform**
-A full-stack real-time platform for messaging, file sharing, and project management.  
-- Implemented **WebSocket** for real-time communication.  
-- Designed UI using **React + TailwindCSS**.  
-- Added **JWT Authentication** and **Role-Based Access Control**.  
-- Improved performance with **Redis caching**.  
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Redis, WebSocket, JWT, AWS (EC2, S3)
-
----
-
-### **Hostel Management System**
-Web application for managing hostel operations such as room allotment, mess bills, and student records.  
-- Built using **Spring Boot (MVC)** with secure login + CRUD operations.  
-- MySQL database integration using JDBC.  
-- Responsive frontend with HTML, CSS, JS.  
-- **Tech Stack:** Java, Spring Boot, MySQL, JDBC
+### 🔹 **Real-Time Collaboration Platform**
+A full-stack application for real-time messaging and project management.  
+**Tech:** React, Node.js, WebSocket, Redis, MongoDB, JWT, AWS  
+👉 WebSocket-based real-time chat  
+👉 JWT Auth + RBAC  
+👉 Redis caching for performance  
 
 ---
 
-### **Three-Tier Application Deployment on AWS**
-Deployed a cloud-based web app using AWS services in a secure VPC environment.  
-- Used **EC2, Lambda, API Gateway, RDS**.  
-- Configured VPC, subnets, security groups, and IAM roles.  
-- Tested APIs using Postman.  
-- **Tech Stack:** AWS EC2, Lambda, API Gateway, RDS, IAM, VPC
+### 🔹 **Hostel Management System**
+Spring Boot + MySQL app for managing hostel records, mess bills, visitors, and room allotment.  
+**Tech:** Java, Spring Boot, JDBC, MySQL  
 
 ---
 
-## 🏆 Achievements & Certifications  
-- AWS Academy Graduate — *Cloud Architecting*  
-- AWS Academy Graduate — *Cloud Security Foundations*  
-- AWS Academy Graduate — *Introduction to Cloud*  
-- AWS Cloud Quest — *Cloud Practitioner*  
-- Docker Certification — GUVI (HCL)  
-- Node.js Certification — GUVI (HCL)  
-- React.js Certification — GUVI (HCL)  
+### 🔹 **Three-Tier AWS Deployment**
+Deployed a cloud-native app using EC2, Lambda, API Gateway, VPC, and RDS.  
+**Tech:** AWS EC2, Lambda, RDS, IAM, API Gateway, VPC  
+
+---
+
+## 🏆 Certifications & Achievements
+- AWS Academy — Cloud Architecting  
+- AWS Academy — Cloud Security Foundations  
+- AWS Academy — Introduction to Cloud  
+- AWS Cloud Quest — Cloud Practitioner  
+- Docker Certification (GUVI – HCL)  
+- React.js Certification (GUVI – HCL)  
+- Node.js Certification (GUVI – HCL)  
 - LeetCode — **50 Days Streak Badge**
 
 ---
 
-## 📊 GitHub Overview  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajputmanav540&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmanav540&layout=compact&theme=default" height="165" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rajputmanav540&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajputmanav540&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajputmanav540&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📬 Contact  
-📧 **Email:** rajputmanav540@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/rajputmanav  
-💻 **GitHub:** https://github.com/rajputmanav540  
+## 🌍 Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rajputmanav540/count.svg" />
+</p>
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile!</p>
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/rajputmanav">
+    <img src="https://img.shields.io/badge/LinkedIn-Manav%20Rajput-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rajputmanav540@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajputmanav540%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/rajputmanav540">
+    <img src="https://img.shields.io/badge/GitHub-rajputmanav540-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
