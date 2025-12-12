@@ -9,8 +9,8 @@
 
 ## 👨‍💻 About Me
 - B.Tech CSE (Cloud Computing & Virtualization) — UPES Dehradun  
-- Interested in backend development, cloud technologies, and scalable systems  
-- Hands-on experience with Java, Spring Boot, React, Node.js, AWS  
+- Interested in backend development, cloud computing, and scalable systems  
+- Hands-on experience with **Java**, **Spring Boot**, **React**, **Node.js**, **AWS**  
 - Email: **rajputmanav540@gmail.com**
 
 ---
@@ -42,34 +42,50 @@
 ## 💼 Experience
 ### **App Development Intern — RAASA KARTS (Remote)**  
 *June 2025 – July 2025*
-- Frontend development using React Native  
-- Built Past Orders Filter feature  
-- Improved UI/UX consistency across mobile screens  
+- Worked on frontend using **React Native**  
+- Built **Past Orders Filter** feature  
+- Improved app UI/UX consistency  
 
 ---
 
 ## 📂 Projects
 
 ### **Real-Time Collaboration Platform**
-Full-stack platform with real-time chat, file sharing, and project management  
-Tech: React, Node.js, Express, WebSocket, MongoDB, Redis, AWS  
+Full-stack real-time app with chat, file sharing, Kanban board  
+**Tech:** React, Node.js, WebSocket, Redis, MongoDB, JWT, AWS  
 
 ### **Hostel Management System**
-Java + Spring Boot web app for hostel operations  
-Tech: Java, Spring Boot, JDBC, MySQL  
+Java Spring Boot system for hostel operations  
+**Tech:** Java, Spring Boot, JDBC, MySQL  
 
 ### **Three-Tier AWS Deployment**
-Deployed 3-tier cloud architecture using EC2, Lambda, API Gateway, RDS  
+Architecture deployed using EC2 + Lambda + RDS + API Gateway  
 
 ---
 
-## 🔗 Connect With Me
-- LinkedIn: **https://linkedin.com/in/rajputmanav**  
-- GitHub: **https://github.com/rajputmanav540**  
-- Email: **rajputmanav540@gmail.com**
+## 📫 Contact Me (Animated Icons)
+<p align="center">
+  <a href="mailto:rajputmanav540@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/rajputmanav">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rajputmanav540">
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  </a>
+</p>
+
+<p align="center">
+  📞 <b>Phone:</b> +91 6395481510  
+  <br>
+  📧 <b>Email:</b> rajputmanav540@gmail.com  
+</p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider giving my repositories a star!
+  ⭐ If you like my work, consider starring my repositories!
 </p>
